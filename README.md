@@ -20,12 +20,13 @@ Hi, I'm Adryan👋
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea" />
 </div>
 
+
+
 ## 📊 GitHub Statistics
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryanhernandez&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanhernandez&layout=compact&theme=dark"/>
-</div>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adryanhernandez&show_icons=true&theme=dark"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanhernandez&layout=compact&theme=dark"/>
+</p>
 
 
 ## 🚀 Goals
